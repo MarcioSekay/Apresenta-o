@@ -1,4 +1,4 @@
-# Apresenta-o
+# Hi, Im Marcio
 <div align="center">
 <img src="https://github.com/MarcioSekay" align="center" style="width: 100%" />
 </div>  
@@ -11,7 +11,7 @@ Still trying to figure out why my code works (or doesn’t)
 </div>  
   
 
-- 🌱 I’m currently learning Python and JS  
+- 🌱 I’m currently learning Python, JS, HTML and CSS 
   
 
 - ❓ Graduated in Business Administration and currently studying Systems Analysis and Development.  
